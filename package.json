@@ -1,6 +1,6 @@
 {
     "name": "com.nakashun.custom_package_test",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "displayName": "CustomPackageTest",
     "description": "This is a test package",
     "unity": "2020.2"
